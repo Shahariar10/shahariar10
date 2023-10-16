@@ -1,10 +1,3 @@
-<!DOCTYPE HTML>
-<html lang="en-US">
-<head>
-    <meta charset="UTF-8">
-    <title></title>
-</head>
-<body>
 <h1 align="center">Hi there👋, I'm Shahariar kabir Shuvo</h1>
 <h3 align="center">A passionate Computer Science and Engineering(CSE) student from Bangladesh.</h3>
 
@@ -47,5 +40,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahariar10&show_icons=true&locale=en&layout=compact" alt="shahariar10" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahariar10&show_icons=true&locale=en" alt="shahariar10" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahariar10&" alt="shahariar10" /></p>
-</body>
-</html>
